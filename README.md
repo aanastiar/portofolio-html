@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portofolio</title>
 </head>
 <body style="background-color:gray;text-align: center;">
     <h1 style="color: white; font-family:Arial ;">Aku, <abbr title="Aa Muhamad Nastiar">Aa</abbr></h1>
